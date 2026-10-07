@@ -1,21 +1,38 @@
 # UoP Complaints Manager
 
-A complaints management system for the University of Portsmouth, built as our group project for **Software Engineering Theory and Practice (M30819)**, 2026/27.
+A system for reporting complaints about courses at the University of Portsmouth, built as our group project for **Software Engineering Theory and Practice (M30819)**, 2026/27.
 
-The goal is a system that is easier and fairer to use than the current UoP complaints process, for students, for the people who complain on their behalf, and for the staff who handle the complaints.
+## Project brief
 
-## The problem
+> Students should be able to report complaints, keep track of them, and check their resolution. Course Leaders should be able to provide input at various stages, provide an action plan, and delegate tasks in the action plan to other stakeholders.
 
-The current UoP complaints process is limited. For example, our requirements interview showed that **parents cannot submit a complaint on behalf of a student**. We're gathering requirements to find gaps like this and design a system that fixes them.
+Our aim is to build something easier, clearer and fairer to use than UoP's current complaints process.
+
+## Users
+
+| User | What they can do |
+|------|------------------|
+| Student | Report a complaint about a course, track its progress, see how it was resolved |
+| Course Leader | Give input at each stage, write an action plan, delegate tasks from it |
+| Other stakeholders | Pick up and complete tasks delegated to them from an action plan |
+
+## Early findings
+
+From our Week 2 interview with the lecturer about the current system:
+
+- **Parents cannot complain on a student's behalf.** This is a gap we could address.
+
+_More findings to be added as our requirements gathering continues._
 
 ## Planned features
 
 _Early ideas, to be confirmed by our requirements work._
 
-- Students submit, track and update complaints online
-- Complaints can be raised on a student's behalf (e.g. by a parent), with the student's consent
-- Live status tracking so complainants know where their case is
-- Staff dashboard for assigning, managing and resolving complaints
+- Students submit course complaints online
+- Live status tracking from submission to resolution
+- Course Leaders add input at each stage of a complaint
+- Action plans with tasks delegated to stakeholders and tracked to completion
+- Students can see the final resolution and outcome
 - Secure handling of personal data
 
 ## Architecture
