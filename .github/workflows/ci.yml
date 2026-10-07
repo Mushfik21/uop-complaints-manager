@@ -1,0 +1,13 @@
+# Placeholder CI: replace the steps once you pick a language and test framework.
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder
+        run: echo "Add build + test steps here"
