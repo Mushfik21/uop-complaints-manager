@@ -26,4 +26,5 @@ A system for reporting complaints about courses at UoP, built to be better than 
 |---------|-------------|
 | [Meeting 1](meetings/meeting-1.md) | Presented our project idea to the class |
 | [Meeting 2](meetings/meeting-2.md) | Interviewed our lecturer about the current complaints system |
-| [Meeting 3](meetings/meeting-3.md) | _To fill in_ |
+| [Meeting 3](meetings/meeting-3.md) | Worked on our interview questions |
+| [Meeting 4](meetings/meeting-4.md) | Asked the module coordinator interview questions, prepared more questions and wrote down system requirements |
