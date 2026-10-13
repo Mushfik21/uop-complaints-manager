@@ -17,7 +17,7 @@ A system for reporting complaints about courses at UoP, built to be better than 
 | Valentino Fernandes | UP2514182 |
 | Reece O'Reilly | UP2512693 |
 | Stefan | UP2512493 |
-| Mohammed Jouma | |
+| Mohammed Jouma | | UP2520484 |
 | Sergio Gutierrez | UP2523341 |
 
 ## Meetings
