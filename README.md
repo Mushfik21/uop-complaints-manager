@@ -11,9 +11,14 @@ A system for reporting complaints about courses at UoP, built to be better than 
 
 ## Team
 
-| Name | GitHub |
-|------|--------|
-|      |        |
+| Name | Student ID |
+|------|------------|
+| Mushfik Sharif | UP2511317 |
+| Valentino Fernandes | UP2514182 |
+| Reece O'Reilly | UP2512693 |
+| Stefan | UP2512493 |
+| Mohammed Jouma | |
+| Sergio Gutierrez | UP2523341 |
 
 ## Meetings
 
