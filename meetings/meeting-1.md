@@ -1,7 +1,8 @@
 # Meeting 1: Project presentation
 
-**Date:**
-**Attendees:**
+**Date:**  
+**Attendees:** Mushfik Sharif, Mohammed Jouma, Valentino Fernandes, Reece O'Reilly, Sergio Gutierrez  
+**Absent:** Stefan
 
 ## What we did
 
